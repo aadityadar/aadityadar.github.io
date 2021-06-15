@@ -12,3 +12,5 @@ Gemfile.lock
 *.sublime-workspace
 aadityadar.sublime-project
 aadityadar.sublime-workspace
+*.sublime-workspace
+aadityadar.sublime-workspace
