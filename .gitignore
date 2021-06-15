@@ -4,7 +4,11 @@
 .sass-cache
 _site
 Gemfile.lock
-.sublime-project
-.sublime-workspace
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.sublime-project
+*.sublime-workspace
 aadityadar.sublime-project
 aadityadar.sublime-workspace
