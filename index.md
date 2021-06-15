@@ -3,6 +3,16 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am an Assistant Professor of Economics at the Indian School of Business. My research examines the social, political and historical factors that cause and accentuate poverty, and how individuals and communities can break away from these structural constraints. One strand of my work focuses on state capacity, governance and conflict. A second strand engages with agrarian issues such as analyzing the welfare consequences of adopting modern technologies. My CV is here.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+*Primary fields*:
+Development Economics, Applied Microeconomics
+
+*Secondary fields*:
+Political Economy, Agricultural Economics
+
+*Contact*:
+Indian School of Business
+Academic Center 8, Room 8117
+Hyderabad, Telangana – 500111
+Email: aadityadar@gmail.com
