@@ -1,6 +1,6 @@
 menu:
 - {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'research', url: '/research'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/aadityadar'}
+- {icon: 'twitter', link: 'https://twitter.com/aadityadar'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Aaditya Dar', title: 'Assistant Professor', department: 'Economics', institution: 'Indian School of Business', institution_address: 'Hyderabad, Telangana – 500111', phone: '(000) 000-0000', email: 'aadityadar@gmail.com', office: 'Academic Center 8, Room 8117', image: 'assets/img/contact.jpg'}
