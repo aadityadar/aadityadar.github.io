@@ -3,10 +3,11 @@ layout: people
 title: "People"
 ---
 
+<img src="{{ site.github.url }}/assets/img/people.jpg" alt="Collaborations" width="100%">
+
 #### Current RAs
 
 * [Rishita Sankrit](mailto:rishita.sankrit@gmail.com)  
-
 
 #### Past RAs  
 
