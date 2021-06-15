@@ -3,6 +3,8 @@ layout: teaching
 title: "Teaching"
 ---
 
+<img src="{{ site.github.url }}/assets/img/teaching.jpg" alt="Courses" width="100%">
+
 #### Instructor:  
 
 * Managerial Economics (MBA), Indian School of Business, 2019-
