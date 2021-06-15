@@ -1,0 +1,1153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ctm",
+				"ctm_375_rape"
+			],
+			[
+				"sex",
+				"w_sexual_violence_any"
+			],
+			[
+				"post",
+				"post_i"
+			],
+			[
+				"dco",
+				"dcode"
+			],
+			[
+				"drink_",
+				"w_drink_1"
+			],
+			[
+				"ctm_37",
+				"ctm_375_rape"
+			],
+			[
+				"w_",
+				"w_physical_violence_any"
+			],
+			[
+				"vio",
+				"w_violence_any"
+			],
+			[
+				"dri",
+				"drink"
+			],
+			[
+				"ph",
+				"physical_violence_any"
+			],
+			[
+				"phy",
+				"physical_violence_any"
+			],
+			[
+				"mus",
+				"muslim_dom"
+			],
+			[
+				"z_sa",
+				"z_sand"
+			],
+			[
+				"ban_i",
+				"ban_i_1"
+			],
+			[
+				"w_dri",
+				"w_drink_freq1"
+			],
+			[
+				"m_dri",
+				"m_drink_freq"
+			],
+			[
+				"std_",
+				"std_dec_index"
+			],
+			[
+				"pos",
+				"post_i"
+			],
+			[
+				"ba_",
+				"ban_i"
+			],
+			[
+				"dis",
+				"dist_month_analysis"
+			],
+			[
+				"dec",
+				"dec_i\tVariable"
+			],
+			[
+				"pop",
+				"pop_f_ipo_tm\tVariable"
+			],
+			[
+				"pos_",
+				"post_i\tVariable"
+			],
+			[
+				"es",
+				"estimate\tVariable"
+			],
+			[
+				"using",
+				"usingf"
+			],
+			[
+				"sale",
+				"sale_date\tVariable"
+			],
+			[
+				"to",
+				"todayarrival_L1\tVariable"
+			],
+			[
+				"sale_d",
+				"sale_date_L1\tVariable"
+			],
+			[
+				"sal",
+				"sale_date\tVariable"
+			],
+			[
+				"pro",
+				"progressivearrival\tVariable"
+			],
+			[
+				"mandi",
+				"mandicode\tVariable"
+			],
+			[
+				"far",
+				"farmerid\tVariable"
+			],
+			[
+				"last",
+				"lastyeararrival\tVariable"
+			],
+			[
+				"ac_",
+				"ac_no\tVariable"
+			],
+			[
+				"vil",
+				"village_id_num\tVariable"
+			],
+			[
+				"di",
+				"district_id_num\tVariable"
+			],
+			[
+				"village",
+				"village_clean\tVariable"
+			],
+			[
+				"distr",
+				"district_english\tVariable"
+			],
+			[
+				"dist",
+				"district_id_num\tVariable"
+			],
+			[
+				"vi",
+				"village_clean\tVariable"
+			],
+			[
+				"sub",
+				"sub_dist\tVariable"
+			],
+			[
+				"district",
+				"district_clean\tVariable"
+			],
+			[
+				"dcode",
+				"dcode_2011\tVariable"
+			],
+			[
+				"ban",
+				"ban_check\tVariable"
+			],
+			[
+				"sc",
+				"sc_census11\tVariable"
+			],
+			[
+				"shop",
+				"shop_expenditure_unit\tVariable"
+			],
+			[
+				"stro",
+				"storage_capacity_unit\tVariable"
+			],
+			[
+				"st",
+				"storage\tVariable"
+			],
+			[
+				"trade",
+				"trade_site\tVariable"
+			],
+			[
+				"other_",
+				"other_state_village_trader\tVariable"
+			],
+			[
+				"fs_",
+				"fs_distance\tVariable"
+			],
+			[
+				"fs",
+				"fs_distance\tVariable"
+			],
+			[
+				"post_",
+				"post_61"
+			],
+			[
+				"d",
+				"district\tVariable"
+			],
+			[
+				"data",
+				"data_dir"
+			],
+			[
+				"prj",
+				"prjcode\tVariable"
+			],
+			[
+				"alt",
+				"altitude\tVariable"
+			],
+			[
+				"proj",
+				"project_code\tVariable"
+			],
+			[
+				"erm_st",
+				"erm_start_5p_clean\tVariable"
+			],
+			[
+				"prjpu",
+				"prjpurpose_onlyone\tVariable"
+			],
+			[
+				"prjtyp",
+				"prjtype_clean1\tVariable"
+			],
+			[
+				"prjty",
+				"prjtype_temp\tVariable"
+			],
+			[
+				"prj_",
+				"prjtype_clean1\tVariable"
+			],
+			[
+				"prje",
+				"prjtype"
+			],
+			[
+				"ass",
+				"assault"
+			],
+			[
+				"start",
+				"start_yr_num\tVariable"
+			],
+			[
+				"mm_star",
+				"mm_start_5p\tVariable"
+			],
+			[
+				"end_year",
+				"end_year_max\tVariable"
+			],
+			[
+				"mm_",
+				"mm_type\tVariable"
+			],
+			[
+				"stat",
+				"stateut\tVariable"
+			],
+			[
+				"fs_po",
+				"fs_ln_tot_pop\tVariable"
+			],
+			[
+				"dc_ce",
+				"dc_census_11\tVariable"
+			],
+			[
+				"meta",
+				"metadata"
+			],
+			[
+				"de",
+				"destring"
+			],
+			[
+				"iso",
+				"iso_state\tVariable"
+			],
+			[
+				"cmd",
+				"cmdcode_cf\tVariable"
+			],
+			[
+				"inte",
+				"interval_id_5km\tVariable"
+			],
+			[
+				"inter",
+				"interval_5km\tVariable"
+			],
+			[
+				"pct_ir",
+				"pct_agland_irr_11\tVariable"
+			],
+			[
+				"ln_po",
+				"ln_pop_11"
+			],
+			[
+				"prj_yr",
+				"prj_yr_start_fuzzy_max\tVariable"
+			],
+			[
+				"y",
+				"yr_start_fuzzy_max\tVariable"
+			],
+			[
+				"yr_s",
+				"yr_start_fuzzy_min\tVariable"
+			],
+			[
+				"dat",
+				"data_dir"
+			],
+			[
+				"urba",
+				"urban_location\tVariable"
+			],
+			[
+				"two",
+				"towns"
+			],
+			[
+				"code",
+				"code_2011\tVariable"
+			],
+			[
+				"shap",
+				"shape_fid\tVariable"
+			],
+			[
+				"cro",
+				"cross_check_10km\tVariable"
+			],
+			[
+				"tag_",
+				"tag_interval_10km\tVariable"
+			],
+			[
+				"interval_5km",
+				"interval_5km_actual\tVariable"
+			],
+			[
+				"split",
+				"split_id\tVariable"
+			],
+			[
+				"shp",
+				"shape_id\tVariable"
+			],
+			[
+				"spl",
+				"split_id\tVariable"
+			],
+			[
+				"sh",
+				"shape_id"
+			],
+			[
+				"sha",
+				"shape_length"
+			],
+			[
+				"run",
+				"runtot\tVariable"
+			],
+			[
+				"yr_sta",
+				"cmdxprj_yr_start_fuzzy_min\tVariable"
+			],
+			[
+				"vc_c",
+				"vc_census_11\tVariable"
+			],
+			[
+				"cod",
+				"code_2011\tVariable"
+			],
+			[
+				"yr_start",
+				"yr_start_fuzzy_max\tVariable"
+			],
+			[
+				"urb",
+				"urban_location\tVariable"
+			],
+			[
+				"temp_",
+				"temp_id_str\tVariable"
+			],
+			[
+				"temp",
+				"temp_id_num"
+			],
+			[
+				"yr_end_",
+				"yr_end_fuzzy_max\tVariable"
+			],
+			[
+				"yr_end",
+				"yr_end_fuzzy\tVariable"
+			],
+			[
+				"yr_",
+				"yr_start_fuzzy\tVariable"
+			],
+			[
+				"cente",
+				"center_latitude\tVariable"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"center_",
+				"center_longitude"
+			],
+			[
+				"labo",
+				"labour_force\tVariable"
+			],
+			[
+				"cent",
+				"center_code\tVariable"
+			],
+			[
+				"center",
+				"center_code\tVariable"
+			],
+			[
+				"nvi",
+				"nvill_cmdxprjarea\tVariable"
+			],
+			[
+				"keep",
+				"keepusing"
+			],
+			[
+				"wiki_yr",
+				"wiki_yr_end\tVariable"
+			],
+			[
+				"group",
+				"groupid\tVariable"
+			],
+			[
+				"yr",
+				"yr_end\tVariable"
+			],
+			[
+				"yr_en",
+				"yr_end_fuzzy\tVariable"
+			],
+			[
+				"id",
+				"isid"
+			],
+			[
+				"mul",
+				"multi_prj_yesno\tVariable"
+			],
+			[
+				"p",
+				"prjcode1\tVariable"
+			],
+			[
+				"my",
+				"my_cmd_id\tVariable"
+			],
+			[
+				"pr",
+				"prjcode\tVariable"
+			],
+			[
+				"comp",
+				"completiondate\tVariable"
+			],
+			[
+				"drink",
+				"drink_often_uwt\tVariable"
+			],
+			[
+				"dc",
+				"dcode_2011"
+			],
+			[
+				"crr_3",
+				"crr_375_rape\tVariable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ever",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernote searc",
+				"Evernote: Search Note"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"sublime.log_input(True)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/_layouts/home.html",
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/_layouts/research.html",
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/_includes/research.html",
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/_data/settings.yml",
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/_data/publications.yml",
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/.gitignore",
+		"/C/Users/aadit/Documents/GitHub/aadityadar.github.io/_config.yml",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxy_analysis_2011_19.do",
+		"/C/Users/aadit/OneDrive - Indian School of Business/prohibition/build/code/prep_nfhs4_drink.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxm_2013_19_ready.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/sxy_analysis_crime.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/publish_.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/d1xm_2013_19_analysis.do",
+		"/C/Users/aadit/Downloads/society-for-economics-research-in-india-emails.csv",
+		"/C/Users/aadit/Dropbox/research/prohibition/sxy.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/research/vulnerability_nepal/code-github/simulation_analysis_coefplot.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/research/alcohol/analysis_V2/code/archive/event_study.do",
+		"/C/Users/aadit/Documents/GitHub/samvaad/index.md",
+		"/C/Users/aadit/Dropbox/research/crime/paper/dar_kumar_public_private_leviathan.tex",
+		"/C/Users/aadit/Downloads/binscatter2.ado",
+		"/C/Users/aadit/Downloads/MostFreq.ado",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/research/bihar_jati/code/crosswalk_prep_census_2011.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/research/bihar_jati/crosswalks/id_dcode_2011_br.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/research/bihar_jati/crosswalks/id_pcode_2011_br.do",
+		"/C/Users/aadit/Dropbox/research/bihar_jati/erolls_parsed/build/code/erolls_village_matching.do",
+		"/C/Users/aadit/Dropbox/research/bihar_jati/erolls_parsed/build/code/build_eng_village.do",
+		"/C/Users/aadit/Dropbox/research/bihar_jati/erolls_parsed/build/code/erolls_lr_mc.do",
+		"/C/Users/aadit/Dropbox/research/bihar_jati/erolls_parsed/build/code/read_erolls_parsed_groupby_count.py",
+		"/C/Users/aadit/OneDrive - Indian School of Business/prohibition/build/code/prep_nfhs4_man.do",
+		"/C/Users/aadit/Downloads/analysis_alcohol_shops.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxm_above_below_med_treat_analysis.do",
+		"/C/Users/aadit/Desktop/randomize.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/publish_tab_fig_V3.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/tabfig.txt",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxm_2013_19_analysis.do",
+		"/C/Users/aadit/Dropbox/research/alcohol/build/code/prep_nfhs4_woman.do",
+		"/C/Users/aadit/OneDrive - Indian School of Business/prohibition/build/code/prep_nfhs4_woman.do",
+		"/C/Users/aadit/OneDrive - Indian School of Business/prohibition/build/code/label/label_var_nfhs4_ir_d.do",
+		"/C/Users/aadit/OneDrive - Indian School of Business/prohibition/build/code/prep_drink.do",
+		"/C/Users/aadit/OneDrive - Indian School of Business/prohibition/build/code/label_var_ncrb_sll.do",
+		"/C/Users/aadit/Dropbox/research/alcohol/analysis_v3/publish_appendix_tab_fig_V3.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/research/prohibition/dxm_2011_19_ready.do",
+		"/C/Users/aadit/Dropbox/research/alcohol/analysis_v3/publish_tab_fig_V3.do",
+		"/C/Users/aadit/Dropbox/copy/data/bihar_sec/bihar_2016_panchayat_elex-master/code/gen_vars.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/Bihar Panchayat Elections Project/build/code/prep_mukhiya_form.do",
+		"/C/Users/aadit/Arthashala Dropbox/Aaditya Dar/Bihar Panchayat Elections Project/build/code/prep_randomize.do",
+		"/C/Users/aadit/Dropbox/Bihar Panchayat Elections Project/Selection of Rolls for Entry.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxm_2011_19_ready.do",
+		"/C/Users/aadit/Dropbox/research/punjab_dgr/readme.txt",
+		"/C/Users/aadit/Dropbox/PGMS/Punjab/Data Management/DGRData/Intermediate/DGR_explore/README.txt",
+		"/C/Users/aadit/Dropbox/PGMS/Punjab/notes/restud.txt",
+		"/C/Users/aadit/Dropbox/research/punjab_dgr/Files shared by DGR/readme.txt",
+		"/C/Users/aadit/Dropbox/Pass/Geheimnis/New Text Document.txt",
+		"/C/Users/aadit/Dropbox/Pass/Geheimnis/message5.txt",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxm_analysis.do",
+		"/C/Users/aadit/Dropbox/CGIAR_MV/replication_mvhealth/build/code/map-nc2ras-extract.py",
+		"/C/Users/aadit/Dropbox/cgiar_new/code/0a_cluster_level_prep_geolocations_old.do",
+		"/C/Users/aadit/Dropbox/cgiar_new/maps/mvdiGlobalRaster/poly2raster.py",
+		"/C/Users/aadit/Dropbox/cgiar_new/maps/mvdiGlobalRaster/rasterCalculatorMVDI.py",
+		"/C/Users/aadit/Dropbox/logitech/Readme.txt",
+		"/C/Users/aadit/Downloads/extract_ncdata.py",
+		"/C/Users/aadit/Dropbox/aaditya/countrycodestuff/countrymap.ipynb",
+		"/C/Users/aadit/Dropbox/cgiar_new/maps/mvdiGlobalRaster/nc2raster.py",
+		"/C/Users/aadit/Dropbox/ceic/ceic.R",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/g - Aishwary Trivedi.R",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Scrape Judges-checkpoint - Kasturi.ipynb",
+		"/C/Users/aadit/AppData/Local/Mailbird/Store/A/54423/RA_stata challenge.do",
+		"/C/Users/aadit/AppData/Local/Mailbird/Store/A/95080/RATask_ISB_HenamSingla.do",
+		"/C/Users/aadit/AppData/Local/Mailbird/Store/A/95081/sol.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxm_analysis_2011_19.do",
+		"/C/Users/aadit/Dropbox/research/alcohol/analysis_V3/publish_tab_fig_V3.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxy_analysis_2012_19.do",
+		"/C/Users/aadit/Dropbox/code_bihar/id_dcode_2011_br.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxy_analysis_aaditya.do",
+		"/C/Users/aadit/Dropbox/research/prohibition/dxy_analysis_lastmile.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Solow_Emperics_code_Pavan - Pavan Seethamraju.ipynb",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/HW10_Sol (1) - Mridul Mishra (1).R",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/housingpriceprediction - Sartaj Husain Ansari.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Extract_netcdf_rf - bommaraboyina ram.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/flipkart_scraping - varghees john.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/GBPINRwithgarch (3) - Lakshmi Bhuvana.R",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/untitled-ontology-5 - rajesh k",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Part - 2 Exploratory Data Analysis - manan mehta.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/codes - Anand Kumar.txt",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/R CODE SAMPLE - Karan Soneja/R CODE SAMPLE/TECHNICAL TEST.R",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/replication_exercise_arshad_azad.tar - Arshad Azad/replication_exercise/replication_codes.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/exercise-missing-values - Arpita Soni.ipynb",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/My_Notebook - Prakhar Anand.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/cleaning - Ruthu C. A..do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Sample Code - Aarthi Iyer.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Multivariate Regression - pankhuri jain.py",
+		"/C/Users/aadit/AppData/Local/Temp/Temp1_Vedarshi_Shastry_code_sample - Vedarshi Shastry.zip/code_sample/py_code_sample/networks.py",
+		"/C/Users/aadit/AppData/Local/Temp/Temp1_Vedarshi_Shastry_code_sample - Vedarshi Shastry.zip/code_sample/py_code_sample/text_classification_lda-test.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/dofile - Chandralekha Mukherjee.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Do file_prashant - Prashant Shekhar.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Data Analysis by Jayant  - Jayant Ingle.ipynb",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Tanisha Agrawal_Python - Tanisha Agrawal.ipynb",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Sample_Code_NRLDC - Divyanshu Jain.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/ISB_PROG_3 - Sandeep Pydi.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/do file 2107-18 - atul bharti.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/New Text Document - Saravanan P.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/SQL_basic_code_Parul - Parul Arora.sql",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/GOA - Priyanshi Chaudhary.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Code - Asr Mahateja/Code/Music_Data.ipynb",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Code - Asr Mahateja/Code/music_data.py",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Code - Asr Mahateja/Code/PayEquity.R",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Do File - anushree ganeriwala.do",
+		"/C/Users/aadit/Dropbox/isb/ra_hire_2021/stata_task.txt",
+		"/C/Users/aadit/Dropbox/isb/ra_hire_2021/hi.txt",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/merging_UPSS_Command_Workshop_Day5th - Harmanender Singh.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/CodingSample_nisha - nisha koppa.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/fe project - Ravi Gupta.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/sample do - Jhinuk Banerjee.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/schedule 1.2 NSS76 - Bishnupriya Bagh.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Do-FILE - Dipti Chhugani.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/FinalEGRO - Tarun Mehta.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Advanced Ecotrix - Ishita Misra.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/univariate - Amashikha Sikdar.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Jain_Tarul_Codes - Tarul Jain.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/NAveen - Naveen kumar.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/Urvi Dhar_Stata Code - Urvi Dhar.do",
+		"/C/Users/aadit/Dropbox/edits/sindhu/castellon.txt",
+		"/C/Users/aadit/AppData/Local/Mailbird/Store/A/94928/Stata_task_Rajat.do",
+		"/C/Users/aadit/Downloads/Power-calculations-stata/Power Calculations_2016/README!.txt",
+		"/C/Users/aadit/Downloads/Power-calculations-stata/Power Calculations_2016/controlling_for_covariates.do",
+		"/C/Users/aadit/Google Drive/ISB - Applied Micro RA 2021 (File responses)/Code (File responses)/stata_results - Olympia Saha.txt",
+		"/C/Users/aadit/Downloads/CodingSample_AM - Aditya Madhusudan.do",
+		"/C/Users/aadit/Dropbox/research/family_politics/replication_parachutersVsClimbers/analysis/code/analysis_br_nov_neworleans_replication_2018m6.do"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			"<open files>",
+			"C:\\Users\\aadit\\OneDrive - Indian School of Business\\prohibition\\,*.do",
+			"C:\\Users\\aadit\\OneDrive - Indian School of Business\\prohibition\\build\\code\\,*.do",
+			"C:\\Users\\aadit\\Dropbox\\research\\alcohol,*.do",
+			"C:\\Users\\aadit\\Dropbox\\research\\alcohol\\build,*.do",
+			"C:\\Users\\aadit\\Dropbox\\research\\alcohol\\build",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data.publications",
+			"publications",
+			"\n",
+			"dec_index",
+			"_dec",
+			"charg",
+			"w_dectional_violence_any",
+			"_emo",
+			"decision",
+			"c.ban_i_1#",
+			"w_violence_any",
+			"d2x",
+			"d1x",
+			" )",
+			"d1xi_",
+			"\n",
+			" ",
+			"legend",
+			"\n",
+			"=\nban",
+			"\t=\n",
+			" ",
+			"rename",
+			" ",
+			"d1xm_2013_19_results_publish_.doc",
+			"d1xm_2013_19_results",
+			", ",
+			"'",
+			", ",
+			",",
+			"\t",
+			"_rp1",
+			"dist_to_border",
+			"_d2b",
+			"d11x",
+			"ban_i_3",
+			"d3x",
+			"ban_i_2",
+			"d2x",
+			"d1x",
+			"ban_i_1",
+			"v003",
+			"sdistri",
+			"v024",
+			"using_w",
+			"drink",
+			"w_physical_violence2_any",
+			"_ph2",
+			"w_physical_violence3_any",
+			"_ph3",
+			"9_vio",
+			"5_vio",
+			"1_vio",
+			"_vio",
+			"m9_vio",
+			"m5_vio",
+			"m1_vio",
+			"_vio",
+			"w_physical_violence_any",
+			"bxAnyViolence",
+			"Any",
+			"w_violence_any",
+			"emp",
+			"d3x",
+			"d1x",
+			"event study",
+			"global es",
+			"sav",
+			"_mus3",
+			"muslim",
+			"_d2b",
+			"_bm2",
+			"_bm1",
+			"_bmp",
+			"2016",
+			"_bm1",
+			"emp_index",
+			"c.ban_i",
+			"_mus3",
+			"dcode_2011 != 210",
+			"_mus2",
+			"_mus1",
+			"_mus",
+			"z_musaxal",
+			"\neststo d1xi_`c'_m9_mus: reghdfe ctm_`c' ban_i_1 if z_musaxal",
+			"_n",
+			"_n:",
+			"_n",
+			"_e1",
+			"elec",
+			"_e1",
+			"_e2",
+			"_f1",
+			"_f",
+			"_s",
+			"keep (ban_i) ",
+			"keep(ban_i)",
+			" ban_i ",
+			"ctm_`c' ban_i",
+			"dxm_2013_19_ready",
+			"d1xm_2013_19_results",
+			"dx",
+			"sand",
+			"d2x",
+			"d1x",
+			"dx",
+			"drink",
+			"nepal",
+			"shops",
+			"~",
+			"head",
+			"rename ",
+			"$pfig",
+			"pfig",
+			"$ptab",
+			"ptab",
+			"boutput",
+			"boutou",
+			"C:/Users/aadit/Dropbox/research/alcohol",
+			"%",
+			"=",
+			"\\",
+			"\n\n",
+			".csv",
+			"muslim",
+			"naxal",
+			"_floods",
+			"sand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"epds",
+			"merge"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aadityadar.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"d1x",
+				"d1xm_2013_19_analysis.do"
+			],
+			[
+				"read",
+				"dxm_2013_19_ready.do"
+			],
+			[
+				"d1",
+				"d1xm_2013_19_analysis.do"
+			],
+			[
+				"ab",
+				"dxm_above_below_med_treat_analysis.do"
+			],
+			[
+				"publ",
+				"publish_tab_fig_V3.do"
+			],
+			[
+				"publi",
+				"publish_tab_fig_V3.do"
+			],
+			[
+				"mi",
+				"dxm_above_below_med_treat_analysis.do"
+			],
+			[
+				"dx",
+				"dxm_analysis.do"
+			],
+			[
+				"place",
+				"placebo_outside.do"
+			],
+			[
+				"prj",
+				"prjxgeog.do"
+			],
+			[
+				"prep",
+				"graph_irr_potential.do"
+			],
+			[
+				"drop",
+				"robustness_drop_obs.do"
+			],
+			[
+				"format",
+				"format_data.do"
+			],
+			[
+				"rob",
+				"robustness_drop_obs.do"
+			],
+			[
+				"1961",
+				"prep1961.do"
+			],
+			[
+				"for",
+				"format_data.do"
+			],
+			[
+				"esaml",
+				"esample.do"
+			],
+			[
+				"forma",
+				"format_data.do"
+			],
+			[
+				"rep",
+				"replication_tables.do"
+			],
+			[
+				"repli",
+				"replication_tables.do"
+			],
+			[
+				"ready",
+				"ready_villages.do"
+			],
+			[
+				"prep my",
+				"prep_my_cmd_id.do"
+			],
+			[
+				"pre",
+				"prep_interval.do"
+			],
+			[
+				"on",
+				"placebo_ongoing.do"
+			],
+			[
+				"mm",
+				"prep_my_cmd_id.do"
+			],
+			[
+				"mul",
+				"prep_yr_indiawris_multipurpose.do"
+			],
+			[
+				"prep yr nr",
+				"prep_yr_indiawris_aibp.do"
+			],
+			[
+				"pr",
+				"prep_yr_cmd.do"
+			],
+			[
+				"plc",
+				"placebo_ongoing.do"
+			],
+			[
+				"pap",
+				"analysis_paper_text.do"
+			],
+			[
+				"tab",
+				"replication_tables.do"
+			],
+			[
+				"pop",
+				"villages_pop.do"
+			],
+			[
+				"text",
+				"analysis_paper_text.do"
+			],
+			[
+				"towns",
+				"towns_firms.do"
+			],
+			[
+				"paper",
+				"analysis_paper_text.do"
+			],
+			[
+				"village",
+				"villages_pop.do"
+			],
+			[
+				"my",
+				"prep_my_cmd_id.do"
+			],
+			[
+				"prep_yr",
+				"prep_yr_master.do"
+			],
+			[
+				"vill",
+				"villages_pop.do"
+			],
+			[
+				"reasd",
+				"ready_villages.do"
+			],
+			[
+				"prep l",
+				"prep_length.do"
+			],
+			[
+				"villa",
+				"prep_yr_village.do"
+			],
+			[
+				"yr cmd",
+				"prep_yr_cmd.do"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
