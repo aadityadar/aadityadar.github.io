@@ -5,11 +5,11 @@ title: "Research"
 
 <img src="{{ site.github.url }}/assets/img/research.jpg" alt="Papers" width="100%">
 
-#### Publications
+##### Publications
 
 von der Goltz, Jan ⓡ Aaditya Dar ⓡ Ram Fishman ⓡ Nathaniel D. Mueller ⓡ Prabhat Barnwal ⓡ and Gordon C. McCord. "Health Impacts of the Green Revolution: Evidence from 600,000 births across the Developing World." _Journal of Health Economics_ 74 (2020): 102373. [.bib](/research/bib/vdfmbm_greenrev.bib) [Paper](/research/vdfmbm_greenrev.pdf) <!--[What was the impact of adoption of agricultural technology on infant mortality?] -->
 
-#### Working papers
+##### Working papers
 
 Blakeslee, David, Aaditya Dar, Ram Fishman, Samreen Malik, Heitor Pelegrina, Karan Singh. "Irrigation and the Spatial Pattern of Structural Transformation in India" (2021) [.bib](/research/bib/bdfmps_irrigation.bib) [Paper](/research/bdfmps_irrigation.pdf)  <!-- [How did canal irrigation affect agriculture, non-agricultural employment and urbanization in villages and towns?] -->
 

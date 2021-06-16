@@ -5,11 +5,11 @@ title: "People"
 
 <img src="{{ site.github.url }}/assets/img/people.jpg" alt="Collaborations" width="100%">
 
-#### Current RAs
+##### Current RAs
 
 * [Rishita Sankrit](mailto:rishita.sankrit@gmail.com)  
 
-#### Past RAs  
+##### Past RAs  
 
 * [Nikhitha Mathew](mailto:nikhitha.ssc@gmail.com)  
 PhD student in Public Policy  
