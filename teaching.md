@@ -3,7 +3,7 @@ layout: teaching
 title: "Teaching"
 ---
 
-<img src="{{ site.github.url }}/assets/img/teaching.jpg" alt="Courses" width="100%">
+<img src="{{ site.github.url }}/assets/img/harvest.jpeg" alt="Courses" width="100%">
 
 ##### Instructor:  
 
