@@ -3,7 +3,7 @@ layout: research
 title: "Research"
 ---
 
-<img src="{{ site.github.url }}/assets/img/research.jpg" alt="Papers" width="100%">
+<img src="{{ site.github.url }}/assets/img/imperfect.jpg" alt="Papers" width="100%">
 
 ##### Publications
 
