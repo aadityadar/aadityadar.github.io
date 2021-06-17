@@ -3,7 +3,7 @@ layout: people
 title: "People"
 ---
 
-<img src="{{ site.github.url }}/assets/img/collective.jpeg" alt="Collaborations" width="100%">
+<img src="{{ site.github.url }}/assets/img/way_ahead.jpeg" alt="Way ahead" width="100%">
 
 ##### Current RAs
 
