@@ -24,7 +24,7 @@ title: "Resources"
 ##### Governance and political economy
 
 * Bhagwan Ke Liye on Philanthropy, Individial and Corporate Social Responsibility (CSR) and the roles of the government and programs like PM CARES. [Episode 8](https://www.youtube.com/watch?v=HMd7RDbWnWE).
-* [Indian Democracy at Work Conference 2020](https://www.indiandemocracyatwork.in/money-power-in-politics/). Theme: Money Power in Politics. [Conference schedule](https://www.indiandemocracyatwork.in/schedule/). [Pre conference workshop](https://www.indiandemocracyatwork.in/pre-conference-workshop/).
+* [Indian Democracy at Work Conference 2020](https://www.indiandemocracyatwork.in/money-power-in-politics/). Theme: Money Power in Politics. [Conference schedule](https://www.indiandemocracyatwork.in/schedule/). [Pre-conference workshop schedule](https://www.indiandemocracyatwork.in/pre-conference-workshop/).
 
 <!--
 ##### Annotated bibliographies

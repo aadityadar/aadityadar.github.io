@@ -29,4 +29,4 @@ title: "Teaching"
 
 ##### Sample syllabus:
 
-* Empirical Indian Political Economy [Syllabus](https://www.dropbox.com/s/sf6cealsk3te7or/dar_syllabus_empirical_indian_poleco.pdf?raw=1)
+* Empirical Indian Political Economy. [Syllabus](https://www.dropbox.com/s/sf6cealsk3te7or/dar_syllabus_empirical_indian_poleco.pdf?raw=1).
