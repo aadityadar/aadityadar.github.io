@@ -5,7 +5,7 @@ title: "Resources"
 
 <img src="{{ site.github.url }}/assets/img/collective.jpeg" alt="Resources" width="100%">
 
-##### Links
+##### Econ links
 
 * [Arthashala onboarding wiki](https://github.com/aadityadar/all-aboard/wiki)
 * [Econ conferences: call for papers](https://twitter.com/econ_conf)
@@ -25,6 +25,19 @@ title: "Resources"
 
 * Bhagwan Ke Liye on Philanthropy, Individial and Corporate Social Responsibility (CSR) and the roles of the government and programs like PM CARES. [Episode 8](https://www.youtube.com/watch?v=HMd7RDbWnWE).
 * [Indian Democracy at Work Conference 2020](https://www.indiandemocracyatwork.in/money-power-in-politics/). Theme: Money Power in Politics. [Conference schedule](https://www.indiandemocracyatwork.in/schedule/). [Pre-conference workshop schedule](https://www.indiandemocracyatwork.in/pre-conference-workshop/).
+
+##### Tech tools
+
+* [Dropbox](https://dropbox.com/)
+* [MobaXterm](https://mobaxterm.mobatek.net/)
+* [Overleaf](https://www.overleaf.com/)
+* [Paperpile](https://paperpile.com/)
+* [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir)
+* [Slack](https://slack.com/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Sumatra](https://www.sumatrapdfreader.org/)
+* [Todoist](https://todoist.com/)
+* [Toggl Track](https://toggl.com/track/)
 
 <!--
 ##### Annotated bibliographies
