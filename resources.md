@@ -3,15 +3,14 @@ layout: resources
 title: "Resources"
 ---
 
-##### Econ links
+##### Economics resources
 
-* [Arthashala onboarding wiki](https://github.com/aadityadar/all-aboard/wiki)
-* [Econ conferences: call for papers](https://twitter.com/econ_conf)
-* [Economics talks: a playlist](https://youtube.com/playlist?list=PLzxnLw9SwmcZC5vYA-0W3fsSzHtSoS3Qe)
-* [Government, society and business: a playlist](https://youtube.com/playlist?list=PLzxnLw9SwmcY9jMg0lO9_IH5U8PXzFLCO)
-* [Resources for econ RAs in India](https://aadityadar.github.io/econ_ra_india/)
-* [Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)](http://samvaad.info/)
-* [The Open Data](http://theopendata.com/)
+* Arthashala onboarding guide. [Wiki](https://github.com/aadityadar/all-aboard/wiki).
+* Call for paper for economics conferences. [Twitter](https://twitter.com/econ_conf).
+* Economics talks. [YouTube playlist](https://youtube.com/playlist?list=PLzxnLw9SwmcZC5vYA-0W3fsSzHtSoS3Qe).
+* Government, society and business. [YouTube playlist](https://youtube.com/playlist?list=PLzxnLw9SwmcY9jMg0lO9_IH5U8PXzFLCO).
+* Resources for economics RAs in India. [Job listings, learning links, tips and more](https://aadityadar.github.io/econ_ra_india/).
+* SAMVAAD: Seminar in Applied Microeconomics - Virtual Assembly and Discussion. [Schedule](http://samvaad.info/). [Sign up](https://forms.gle/JsXhRoNskxuKQuk59).
 
 ##### Agriculture
 
@@ -24,7 +23,7 @@ title: "Resources"
 * Bhagwan Ke Liye on Philanthropy, Individial and Corporate Social Responsibility (CSR) and the roles of the government and programs like PM CARES. [Episode 8](https://www.youtube.com/watch?v=HMd7RDbWnWE).
 * [Indian Democracy at Work Conference 2020](https://www.indiandemocracyatwork.in/money-power-in-politics/). Theme: Money Power in Politics. [Conference schedule](https://www.indiandemocracyatwork.in/schedule/). [Pre-conference workshop schedule](https://www.indiandemocracyatwork.in/pre-conference-workshop/).
 
-##### Tech tools
+##### Noteworthy tools
 
 * [Dropbox](https://dropbox.com/)
 * [MobaXterm](https://mobaxterm.mobatek.net/)
@@ -38,8 +37,9 @@ title: "Resources"
 * [Toggl Track](https://toggl.com/track/)
 
 <!--
-##### Annotated bibliographies
+##### Bibliographies
 
-* Agricultural fires
-* Psychology of poverty
+* Indian subnational politics by Poulomi Chakrabarti. [Books](https://sites.google.com/view/poulomichakrabarti/data/bibliographies)
+* Agricultural fires. [Review]
+* Psychology of poverty. [Review]
 -->
