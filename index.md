@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am an Assistant Professor of Economics at the [Indian School of Business](https://isb.edu). I am also a research fellow at [Bharti Institute of Public Policy](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/bharti-institute-of-public-policy.html), a member of [Society for Economics Research in India](https://seri-india.org/) and co-organizer of the [Seminar in Applied Microeconomics](http://samvaad.info/). 
+I am an Assistant Professor of Economics at the [Indian School of Business](https://isb.edu). I am also a research fellow at [Bharti Institute of Public Policy](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/bharti-institute-of-public-policy.html), member of [Society for Economics Research in India](https://seri-india.org/) and co-organizer of the [Seminar in Applied Microeconomics](http://samvaad.info/). 
 
 My research examines the social, political and historical factors that cause and accentuate poverty, and how individuals and communities can break away from these structural constraints. One strand of my work focuses on state capacity, governance and conflict. A second strand engages with agrarian issues such as analyzing the welfare consequences of adopting modern technologies. My CV is [here](/assets/dar_cv.pdf).
 
