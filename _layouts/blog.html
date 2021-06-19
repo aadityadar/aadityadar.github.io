@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<img src="{{ site.github.url }}/assets/img/work.jpeg" alt="Work" width="100%">
+
+{{ content }}
+
+{% for post in site.posts %}
+  <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+{% endfor %}
