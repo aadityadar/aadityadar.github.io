@@ -3,8 +3,6 @@ layout: resources
 title: "Resources"
 ---
 
-<img src="{{ site.github.url }}/assets/img/collective.jpeg" alt="Resources" width="100%">
-
 ##### Econ links
 
 * [Arthashala onboarding wiki](https://github.com/aadityadar/all-aboard/wiki)

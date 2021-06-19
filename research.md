@@ -3,8 +3,6 @@ layout: research
 title: "Research"
 ---
 
-<img src="{{ site.github.url }}/assets/img/imperfect.jpeg" alt="Papers" width="100%">
-
 ##### Publications
 
 von der Goltz, Jan ⓡ Aaditya Dar ⓡ Ram Fishman ⓡ Nathaniel D. Mueller ⓡ Prabhat Barnwal ⓡ and Gordon C. McCord. "Health Impacts of the Green Revolution: Evidence from 600,000 births across the Developing World." _Journal of Health Economics_ 74 (2020): 102373. [BibTeX](/research/bib/vdfmbm_greenrev.bib). [Paper](/research/vdfmbm_greenrev.pdf). <!--[What was the impact of adoption of agricultural technology on infant mortality?] -->
