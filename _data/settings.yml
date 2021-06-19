@@ -6,7 +6,8 @@ menu:
 - {name: 'research', url: '/research'}
 - {name: 'teaching', url: '/teaching'}
 - {name: 'resources', url: '/resources'}
-- {name: 'people', url: '/people'}
+#- {name: 'people', url: '/people'}
+- {name: 'blog', url: '/blog'}
 - {name: 'cv', url: '/cv'}
 
 people:
@@ -27,3 +28,14 @@ social:
 
 contacts:
 - {name: 'Aaditya Dar', title: 'Assistant Professor', department: 'Economics', institution: 'Indian School of Business', institution_address: 'Hyderabad, Telangana – 500111', phone: '(000) 000-0000', email: 'aadityadar@gmail.com', office: 'Academic Center 8, Room 8117', image: 'assets/img/contact.jpg'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
