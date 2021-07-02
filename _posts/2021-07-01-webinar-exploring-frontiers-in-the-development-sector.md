@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Webinar: Exploring Frontiers in the Development Sector"
-permalink: /blog/webinar-exploring-frontiers-in-the-development-sector
+permalink: blog/:title
 ---
 
 The Net Impact Club at Indian School of Business is organizing ISB Impact Forum (IIF), a two-day conclave that brings together thought leaders, impact organizations, foundations and business professionals to conduct a dialogue on the evolving social impact space. A 'Spotlight Panel' at IIF will feature senior economists who will offer their reflections on lessons non-profits and social enterprises can learn from development economics. 
