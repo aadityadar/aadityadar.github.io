@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Predocs and Internships"
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 ---
 
 <!-- While I am no longer hiring predoctoral fellows to work with me, I am keen to hear from young scholars interested in agriculture or governance issues.-->
