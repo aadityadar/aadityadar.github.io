@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Predocs and internships"
+title: "Predocs and Internships"
 ---
 
 <!-- While I am no longer hiring predoctoral fellows to work with me, I am keen to hear from young scholars interested in agriculture or governance issues.-->
