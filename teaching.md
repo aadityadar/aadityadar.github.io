@@ -8,7 +8,7 @@ title: "Teaching"
 * Managerial Economics (masters), Indian School of Business, 2019-present. [Syllabus](https://www.dropbox.com/s/kt8wsa341v6xp7y/MGEC%20Course%20Outline.pdf?dl=0).
 * Government, Society and Business (masters), Indian School of Business, 2019-present. [Syllabus](https://www.dropbox.com/s/21kxon20dkccvyj/gsbc_syllabus_aaditya.pdf?dl=0).
 * Intermediate Microeconomics (undergrad), George Washington University, Fall 2016. [Syllabus](https://www.dropbox.com/s/ii0jtd2kvs82f0z/econ2101_2016f_syllabus_1026_13.pdf?dl=0). [Course Planner](http://www.bit.ly/econ2101).
-* Probability and Statistics Review (masters), Institute for International Economic Policy, George Washington University, Fall 2016.
+* Probability and Statistics Review (masters), Institute for International Economic Policy, George Washington University, Fall 2016. [Syllabus](https://www.dropbox.com/s/ejmm5i9y8vrgg5v/dar_iiep_intro_stats_basic_math_syllabus.pdf?dl=0).
 * Training Workshop in Operationalizing a Field Survey (MPhil/PhD), Kurukshetra University, Summer 2013. [Syllabus](https://www.dropbox.com/s/0yee1imrrn6c0o3/syllabus_20130524.pdf?raw=1).
 
 ##### Teaching assistant
