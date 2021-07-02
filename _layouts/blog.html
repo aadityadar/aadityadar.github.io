@@ -7,5 +7,5 @@ layout: default
 {{ content }}
 
 {% for post in site.posts %}
-  <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+  <p><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
 {% endfor %}
