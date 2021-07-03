@@ -5,9 +5,9 @@ title: "Research"
 
 ##### Publications
 
-von der Goltz, Jan ⓡ Aaditya Dar ⓡ Ram Fishman ⓡ Nathaniel D. Mueller ⓡ Prabhat Barnwal ⓡ and Gordon C. McCord. "Health Impacts of the Green Revolution: Evidence from 600,000 births across the Developing World." _Journal of Health Economics_ 74 (2020): 102373. [BibTeX](/research/bib/vdfmbm_greenrev.bib). [Paper](/research/vdfmbm_greenrev.pdf). <!--[What was the impact of adoption of agricultural technology on infant mortality?] -->
+von der Goltz, Jan ⓡ Aaditya Dar ⓡ Ram Fishman ⓡ Nathaniel D. Mueller ⓡ Prabhat Barnwal ⓡ and Gordon C. McCord. 2020. "Health Impacts of the Green Revolution: Evidence from 600,000 births across the Developing World." _Journal of Health Economics_ 74 (December): 102373. [DOI](https://doi.org/10.1016/j.jhealeco.2020.102373). [BibTeX](/research/bib/vdfmbm_greenrev.bib). [Paper](/research/vdfmbm_greenrev.pdf). <!--[What was the impact of adoption of agricultural technology on infant mortality?] -->
 
-Bhattarai, Nishan, Adrienne Pollack, David B. Lobell, Ram Fishman, Balwinder Singh, Aaditya Dar, and Meha Jain. 2021. “The Impact of Groundwater Depletion on Agricultural Production in India.” Environmental Research Letters: ERL, July. https://doi.org/10.1088/1748-9326/ac10de. [Paper](/research/bplfsdj_groundwater.pdf)
+Bhattarai, Nishan, Adrienne Pollack, David B. Lobell, Ram Fishman, Balwinder Singh, Aaditya Dar, and Meha Jain. 2021. “The Impact of Groundwater Depletion on Agricultural Production in India.” _Environmental Research Letters_, July. [DOI](https://doi.org/10.1088/1748-9326/ac10de). [BibTeX](/research/bib/bplfsdj_groundwater.bib). [Paper](/research/bplfsdj_groundwater.pdf).
 
 ##### Working papers
 
