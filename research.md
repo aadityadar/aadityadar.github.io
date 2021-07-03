@@ -7,6 +7,8 @@ title: "Research"
 
 von der Goltz, Jan ⓡ Aaditya Dar ⓡ Ram Fishman ⓡ Nathaniel D. Mueller ⓡ Prabhat Barnwal ⓡ and Gordon C. McCord. "Health Impacts of the Green Revolution: Evidence from 600,000 births across the Developing World." _Journal of Health Economics_ 74 (2020): 102373. [BibTeX](/research/bib/vdfmbm_greenrev.bib). [Paper](/research/vdfmbm_greenrev.pdf). <!--[What was the impact of adoption of agricultural technology on infant mortality?] -->
 
+Bhattarai, Nishan, Adrienne Pollack, David B. Lobell, Ram Fishman, Balwinder Singh, Aaditya Dar, and Meha Jain. 2021. “The Impact of Groundwater Depletion on Agricultural Production in India.” Environmental Research Letters: ERL, July. https://doi.org/10.1088/1748-9326/ac10de. [Paper](/research/bplfsdj_groundwater.pdf)
+
 ##### Working papers
 
 Blakeslee, David, Aaditya Dar, Ram Fishman, Samreen Malik, Heitor Pelegrina, Karan Singh. "Irrigation and the Spatial Pattern of Structural Transformation in India" (2021). [BibTeX](/research/bib/bdfmps_irrigation.bib). [Paper](/research/bdfmps_irrigation.pdf).  <!-- [How did canal irrigation affect agriculture, non-agricultural employment and urbanization in villages and towns?] -->
