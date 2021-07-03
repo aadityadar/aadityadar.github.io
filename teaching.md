@@ -5,11 +5,11 @@ title: "Teaching"
 
 ##### Instructor
 
-* Managerial Economics (masters), Indian School of Business, 2019-present. [Syllabus](/teaching/syllabus/dar_isb_managerial_economics.pdf)
-* Government, Society and Business (masters), Indian School of Business, 2019-present. [Syllabus](/teaching/syllabus/dar_isb_government_society_business.pdf)
-* Intermediate Microeconomics (undergrad), George Washington University, Fall 2016. [Syllabus](/teaching/syllabus/dar_gwu_intermediate_micro.pdf)
-* Introductory Statistics and Basic Mathematical Tools (masters), Institute for International Economic Policy, George Washington University, Fall 2016. [Syllabus](/teaching/syllabus/dar_iiep_introductory_statistics.pdf)
-* Operationalizing a Field Survey (MPhil/PhD), Kurukshetra University, Summer 2013. [Syllabus](/teaching/syllabus/dar_kuk_operationalizing_field_survey.pdf)
+* Managerial Economics (masters), Indian School of Business, 2019-present. [Syllabus](/teaching/syllabus/dar_isb_managerial_economics.pdf).
+* Government, Society and Business (masters), Indian School of Business, 2019-present. [Syllabus](/teaching/syllabus/dar_isb_government_society_business.pdf).
+* Intermediate Microeconomics (undergrad), George Washington University, Fall 2016. [Syllabus](/teaching/syllabus/dar_gwu_intermediate_micro.pdf).
+* Introductory Statistics and Basic Mathematical Tools (masters), Institute for International Economic Policy, George Washington University, Fall 2016. [Syllabus](/teaching/syllabus/dar_iiep_introductory_statistics.pdf).
+* Operationalizing a Field Survey (MPhil/PhD), Kurukshetra University, Summer 2013. [Syllabus](/teaching/syllabus/dar_kuk_operationalizing_field_survey.pdf).
 
 ##### Teaching assistant
 
@@ -27,4 +27,4 @@ title: "Teaching"
 
 ##### Sample syllabus
 
-* Empirical Indian Political Economy. [Syllabus](/teaching/syllabus/dar_sample_empirical_indian_political_economy.pdf)
+* Empirical Indian Political Economy. [Syllabus](/teaching/syllabus/dar_sample_empirical_indian_political_economy.pdf).
