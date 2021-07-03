@@ -5,11 +5,11 @@ title: "Teaching"
 
 ##### Instructor
 
-* Managerial Economics (masters), Indian School of Business, 2019-present. [Syllabus](https://www.dropbox.com/s/kt8wsa341v6xp7y/MGEC%20Course%20Outline.pdf?dl=0).
-* Government, Society and Business (masters), Indian School of Business, 2019-present. [Syllabus](https://www.dropbox.com/s/21kxon20dkccvyj/gsbc_syllabus_aaditya.pdf?dl=0).
-* Intermediate Microeconomics (undergrad), George Washington University, Fall 2016. [Syllabus](https://www.dropbox.com/s/ii0jtd2kvs82f0z/econ2101_2016f_syllabus_1026_13.pdf?dl=0). [Course Planner](http://www.bit.ly/econ2101).
-* Probability and Statistics Review (masters), Institute for International Economic Policy, George Washington University, Fall 2016. [Syllabus](https://www.dropbox.com/s/ejmm5i9y8vrgg5v/dar_iiep_intro_stats_basic_math_syllabus.pdf?dl=0).
-* Training Workshop in Operationalizing a Field Survey (MPhil/PhD), Kurukshetra University, Summer 2013. [Syllabus](https://www.dropbox.com/s/0yee1imrrn6c0o3/syllabus_20130524.pdf?raw=1).
+* Managerial Economics (masters), Indian School of Business, 2019-present. [Syllabus](/teaching/syllabus/dar_isb_managerial_economics.pdf)
+* Government, Society and Business (masters), Indian School of Business, 2019-present. [Syllabus](/teaching/syllabus/dar_isb_government_society_business.pdf)
+* Intermediate Microeconomics (undergrad), George Washington University, Fall 2016. [Syllabus](/teaching/syllabus/dar_gwu_intermediate_micro.pdf)
+* Introductory Statistics and Basic Mathematical Tools (masters), Institute for International Economic Policy, George Washington University, Fall 2016. [Syllabus](/teaching/syllabus/dar_iiep_introductory_statistics.pdf)
+* Operationalizing a Field Survey (MPhil/PhD), Kurukshetra University, Summer 2013. [Syllabus](/teaching/syllabus/dar_kuk_operationalizing_field_survey.pdf)
 
 ##### Teaching assistant
 
@@ -27,4 +27,4 @@ title: "Teaching"
 
 ##### Sample syllabus
 
-* Empirical Indian Political Economy. [Syllabus](https://www.dropbox.com/s/sf6cealsk3te7or/dar_syllabus_empirical_indian_poleco.pdf?raw=1).
+* Empirical Indian Political Economy. [Syllabus](/teaching/syllabus/dar_sample_empirical_indian_political_economy.pdf)
