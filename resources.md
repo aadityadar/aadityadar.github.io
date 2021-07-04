@@ -7,6 +7,7 @@ title: "Resources"
 
 * Arthashala onboarding guide. [Wiki](https://github.com/aadityadar/all-aboard/wiki).
 * Call for paper for economics conferences. [Twitter](https://twitter.com/econ_conf).
+* Development economics. [List of lists](https://github.com/aadityadar/development_economics).
 * Economics talks. [YouTube playlist](https://youtube.com/playlist?list=PLzxnLw9SwmcZC5vYA-0W3fsSzHtSoS3Qe).
 * Government, society and business. [YouTube playlist](https://youtube.com/playlist?list=PLzxnLw9SwmcY9jMg0lO9_IH5U8PXzFLCO).
 * Resources for economics RAs in India. [Job listings, learning links, tips and more](https://aadityadar.github.io/econ_ra_india/).
